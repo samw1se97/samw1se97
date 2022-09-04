@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samw1se97
-- 👀 I’m interested in front end
-- 🌱 I’m currently learning coding (java/html/sql/)
+- 👀 I’m interested in full-stack 
+- 🌱 I’m currently learning coding (java/javascript/html/css/sql/)
 - 💞️ I’m looking to collaborate on HTML to upgrade my skills...
 - 📫 How to reach me ...
 
