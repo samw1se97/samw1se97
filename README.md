@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Front & Back End to upgrade my skills.
 - 📫 How_to_reach_me = {
   📧: "Miodownick@gmail.com",
-  🔗 LinkedIn: linkedin.com/in/samuel-miodownick-59a16a223
+  🔗 LinkedIn: linkedin.com/in/s-m-59a16a223
   }
 
